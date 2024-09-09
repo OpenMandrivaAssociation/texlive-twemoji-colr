@@ -1,6 +1,6 @@
 Name:		texlive-twemoji-colr
-Version:	64854
-Release:	2
+Version:	71991
+Release:	1
 Summary:	Twemoji font in COLR/CPAL layered format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/twemoji-colr
