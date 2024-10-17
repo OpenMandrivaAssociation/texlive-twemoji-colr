@@ -3,7 +3,7 @@ Version:	71991
 Release:	1
 Summary:	Twemoji font in COLR/CPAL layered format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/twemoji-colr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/twemoji-colr
 License:	cc-by-sa-4 apache2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/twemoji-colr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/twemoji-colr.doc.r%{version}.tar.xz
